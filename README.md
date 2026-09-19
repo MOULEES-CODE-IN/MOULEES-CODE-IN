@@ -50,7 +50,7 @@ developer_profile:
 * 🤖 **Machine Learning:** Learning Machine Learning concepts and building projects using **Python and ML libraries**.
 * 🌐 **Frontend:** Familiar with **HTML, CSS and JavaScript** for building user interfaces.
 * 🚀 **Projects:** Interested in building practical software and AI-based applications.
-* 🎯 **Goal:** To become a strong **Full Stack Developer**.
+* 🎯 **Goal:** To become a strong **Frontend Stack Developer**.
 
 ---
 
