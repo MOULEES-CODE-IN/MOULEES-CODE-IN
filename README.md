@@ -29,9 +29,13 @@
 
   </div>
 
-  ---
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
   ### 💫 About Me
+
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```yaml
 developer_profile:
@@ -42,8 +46,10 @@ developer_profile:
   learning: ["Machine Learning", "Full Stack Development"]
   additional_skills: ["Python","JavaScript"]
   location: "India 🇮🇳"
-  goal: "Becoming a strong Full Stack Developer with solid Java and problem-solving skills"
+  goal: "Becoming a strong Java Developer"
 ```
+
+
 
 * ☕ **Core Focus:** Java Programming, Object-Oriented Programming, Data Structures & Algorithms.
 * 🧩 **Problem Solving:** Actively practicing DSA and improving algorithmic thinking through **LeetCode**.
@@ -52,7 +58,9 @@ developer_profile:
 * 🚀 **Projects:** Interested in building practical software and AI-based applications.
 * 🎯 **Goal:** To become a strong **Frontend Stack Developer**.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -103,7 +111,9 @@ developer_profile:
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🧩 Problem Solving & Competitive Programming
 
@@ -125,7 +135,9 @@ developer_profile:
 | **Trees & Graphs**           | Traversals, BFS, DFS, Basic Graph Algorithms       |       Java       |
 | **Sorting & Searching**      | Binary Search, Merge Sort, Quick Sort, Heap Sort   |       Java       |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🎯 Current Focus
 
@@ -135,7 +147,9 @@ developer_profile:
 * 🚀 Building practical **software and AI-based projects**
 * 📚 Improving overall **software development skills**
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🐍 Contribution Graph
 
@@ -145,7 +159,9 @@ developer_profile:
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 📊 GitHub Statistics
 
@@ -158,7 +174,9 @@ developer_profile:
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 📫 Connect With Me
 
