@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/↗%20LINKEDIN-0077B5?style=for-the-badge" />
 </a>
 
-<a href="https://moulees-code-in.github.io/MOULEES-PORTFOLIO/" target="_blank">
+<a href="https://moulees-code-in.github.io/Mc_Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/↗%20PORTFOLIO-555555?style=for-the-badge" />
 </a>
 
@@ -199,6 +199,10 @@ developer_profile:
   &nbsp;
   <a href="https://www.linkedin.com/in/chandramouleeswaran-m-834aa4397" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://moulees-code-in.github.io/Mc_Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/↗%20PORTFOLIO-555555?style=for-the-badge" />
   </a>
 
 </div>
